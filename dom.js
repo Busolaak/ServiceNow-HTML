@@ -1,0 +1,1 @@
+export const inputOne = document.getElementById(`input_1`);
